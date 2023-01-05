@@ -20,7 +20,7 @@ export default function Home() {
 
   return (
     <div>
-      <h1>Serach</h1>
+      <h1>Search</h1>
 
       <form onSubmit={handleSearch}>
         <input
